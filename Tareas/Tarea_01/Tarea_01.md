@@ -1,4 +1,4 @@
-# Tarea01
+#Tarea01
 ## Juan Flores
 En la lluvia de ideas llegamos a varios temas, de forma general son deporte, música urbana, accesibilidad, películas, tegnologías y redes sociales. 
 Esta última temática fue la que más se repitió pues consideramos abordarla desde distintas perspectivas. Algunas de estas fueron ver las preferencias de uso de estas por parte de los chilenos, otra fue como estas ayudaron a generar comunidades online y por último el tema con el cuál nos quedamos, la evolución de la música urbana chilena.
