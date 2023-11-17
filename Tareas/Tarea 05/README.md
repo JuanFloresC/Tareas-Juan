@@ -4,4 +4,4 @@
 3. Terminé dandole forma y color con css. Usé el color verde porque es un color que resalta y evoca a la tranquildad, además de la calma.
 
 Este es el [link](https://juanfloresc.github.io/CV-Juan-Flores.github.io/)
-Aquí están [el repositorio con los archivos](https://github.com/JuanFloresC/CV-Juan-Flores.github.io)
+Aquí está el [ repositorio con los archivos](https://github.com/JuanFloresC/CV-Juan-Flores.github.io)
